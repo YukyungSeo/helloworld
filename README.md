@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+<img src="image.jpg" /> <br>
+[발표자료](/project.pptx) <br>
+
+#동영상입니다
+<iframe width="949" height="534" src="https://www.youtube.com/embed/j-4IcPpbld8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+#유용한 링크
+[네이버 홈](https://naver.com) <br>
+
+               
+               
+
 You can use the [editor on GitHub](https://github.com/YukyungSeo/helloworld/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
